@@ -173,3 +173,32 @@ Learn more about the
 ## License
 
 [Apache License 2.0](LICENSE)
+
+$ pip install tensorflow
+
+Other devices (DirectX and MacOS-metal) are supported using
+[Device plugins](https://www.tensorflow.org/install/gpu_plugins#available_devices).
+
+A smaller CPU-only package is also available:
+
+$ pip install tensorflow-cpu
+
+
+To update TensorFlow to the latest version, add `--upgrade` flag to the above
+commands.
+
+*Nightly binaries are available for testing using the
+[tf-nightly](https://pypi.python.org/pypi/tf-nightly) and
+[tf-nightly-cpu](https://pypi.python.org/pypi/tf-nightly-cpu) packages on PyPi.*
+
+#### *Try your first TensorFlow program*
+
+```shell
+$ python
+>>> import tensorflow as tf
+>>> tf.add(1, 2).numpy()
+3
+>>> hello = tf.constant('Hello, TensorFlow!')
+>>> hello.numpy()
+b'Hello, TensorFlow!'
+
