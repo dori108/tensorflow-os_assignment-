@@ -14,8 +14,11 @@
 [![TF Official Continuous](https://tensorflow.github.io/build/TF%20Official%20Continuous.svg)](https://tensorflow.github.io/build#TF%20Official%20Continuous)
 [![TF Official Nightly](https://tensorflow.github.io/build/TF%20Official%20Nightly.svg)](https://tensorflow.github.io/build#TF%20Official%20Nightly)
 [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
-<br> <b><big>장예령이 오픈소스 과제를 위해서 수정함</big></b> <br>
+
+🚀 <b><big>장예령이 오픈소스 과제를 위해서 수정함</big></b>
+
 tensoflow가 뭔지 탐구할 수 있는 시간이 될 것 같다!
+
 
 
 
